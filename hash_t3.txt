@@ -1,6 +1,7 @@
-5
-sdfi
-wewrw
-wfwqf
-asfasi
-wqqwf
+6
+abcd 10
+cde 12
+file 3
+group 33
+check 78
+cde 9
